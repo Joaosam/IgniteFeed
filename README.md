@@ -1,7 +1,10 @@
 <h1 align="center">
   Ignite Feed 💬
-
 </h1>
+
+<p align="center">
+  <img alt="" src=".github/feed-iginite.png" width="100%">
+</p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
