@@ -1,10 +1,11 @@
 <h1 align="center">
-  Portfolio 🌐
+  Ignite Feed 💬
+
 </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## 🚀 Tecnologias
@@ -16,6 +17,6 @@
 
 ## 👨‍💻 Projeto
 
-Exercitando os conceitos do ReactJS e trabalhando com o TypeScript . Nesse projeto a ideia foi reproduzir de forma simples o mecanismo de comentários em um feed.
+Exercitando os conceitos do ReactJS e trabalhando com o TypeScript. Nesse projeto a ideia foi reproduzir de forma simples o mecanismo de comentários em um feed.
 
-Live Preview: https://joaosam.github.io/IgniteFeed/
+Live Preview: https://ignite-feed-xi-three.vercel.app/
