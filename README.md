@@ -22,4 +22,4 @@
 
 Exercitando os conceitos do ReactJS e trabalhando com o TypeScript. Nesse projeto a ideia foi reproduzir de forma simples o mecanismo de comentários em um feed.
 
-Live Preview: https://ignite-feed-xi-three.vercel.app/
+Live Preview: https://ignite-feed3.vercel.app/
